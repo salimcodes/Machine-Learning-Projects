@@ -127,7 +127,7 @@ Initializing an instance of the Support Vector Classifier part of the Support Ve
 ```
 classifier.fit(X_train, Y_train)
 ```
-This trains the support vector Machine Classifier with the test dataset. 
+This trains the support vector Machine Classifier with the train dataset. 
 
 ```
 X_train_prediction = classifier.predict(X_train)
