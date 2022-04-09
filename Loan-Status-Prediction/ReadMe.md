@@ -4,7 +4,7 @@
 
 ### Project: Loan-Status-Prediction-Model
 
-### Project Description: 
+### Project Description: This project is a classification model to determine if loan applications are eligible.  
 
 ### URL to Dataset: [Download here](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 
