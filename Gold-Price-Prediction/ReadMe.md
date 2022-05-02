@@ -24,7 +24,7 @@ from sklearn import metrics
 
 `import pandas as pd` imports the pandas library which is used to analyze data.
 
-`import matplotlib.pyplot as plt` imports the PyPlot function from the MatPlotLib library which is used to visualize data and trends in the data.
+`import matplotlib.pyplot as plt` imports the pyplot function from the MatPlotLib library which is used to visualize data and trends in the data.
 
 `import seaborn as sns` imports the seaborn library which is used for making statistical graphics. It builds on top of matplotlib and integrates closely with pandas data structures. Seaborn helps you explore and understand your data.
 
