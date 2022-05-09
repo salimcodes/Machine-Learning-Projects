@@ -22,7 +22,7 @@ The block of codes above imports the dependencies used in the model.
 
 `import numpy as np` imports the numpy library which can be used to perform a wide variety of mathematical operations on arrays.
 
-`import pandas as pd` imports the panda library which is used to analyze data.
+`import pandas as pd` imports the pandas library which is used to analyze data.
 
 `import seaborn as sns` imports the seaborn library which is used for making statistical graphics. It builds on top of matplotlib and integrates closely with pandas data structures. Seaborn helps you explore and understand your data.
 
