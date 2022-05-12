@@ -25,7 +25,7 @@ The block of codes above imports the dependencies used in the model.
 
 `import numpy as np` imports the numpy library which can be used to perform a wide variety of mathematical operations on arrays.
 
-`import pandas as pd` imports the panda library which is used to analyze data.
+`import pandas as pd` imports the pandas library which is used to analyze data.
 
 `import re` imports the regular expression library which provides regular expression matching operations similar to those found in Perl. A regular expression (or RE) specifies a set of strings that matches it; the functions in this module let you check if a particular string matches a given regular expression (or if a given regular expression matches a particular string, which comes down to the same thing).
 
