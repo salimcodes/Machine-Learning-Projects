@@ -22,7 +22,7 @@ from sklearn.metrics import accuracy_score
 
 `import pandas as pd` imports the pandas library which is used to analyze data.
 
-`from sklearn.model_selection import train_test_split` imports the train_test_split function from sklearn's model_selection library. It will be used in spliting arrays or matrices into random train and test subsets.
+`from sklearn.model_selection import train_test_split` imports the `train_test_split` function from sklearn's model_selection library. It will be used in spliting arrays or matrices into random train and test subsets.
 
 `from sklearn.linear_model import LogisticRegression` imports the `LogisticRegression` Machine Learning model from sklearn's linear_model library. This model will be used in training the model. 
 
