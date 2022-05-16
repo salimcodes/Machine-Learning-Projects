@@ -19,12 +19,11 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 ```
 
-
 The block of codes above imports the third party libraries used in the model.  
 
 `import numpy as np` imports the numpy library which can be used to perform a wide variety of mathematical operations on arrays.
 
-`import pandas as pd` imports the panda library which is used to analyze data.
+`import pandas as pd` imports the pandas library which is used to analyze data.
 
 `import matplotlib.pyplot as plt` imports the PyPlot function from the MatPlotLib library which is used to visualize data and trends in the data.
 
