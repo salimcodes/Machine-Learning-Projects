@@ -79,7 +79,7 @@ This line of code adds the target (price) column to the DataFrame.
 ```
 salim_house_price_dataframe.head()
 ```
-This prints the first 5 rows of the DataFrame with the target (price)
+This prints the first 5 rows of the DataFrame with the target (price).
 
 ```
 salim_house_price_dataframe.shape
