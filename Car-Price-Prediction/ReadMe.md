@@ -17,7 +17,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import Lasso
 from sklearn import metrics
 ```
-The block of codes above imports the third party libraries used in the model.  
+The block of codes shown above imports the third party libraries used in the model.  
 
 `import pandas as pd` imports the pandas library which is used to analyze data.
 
