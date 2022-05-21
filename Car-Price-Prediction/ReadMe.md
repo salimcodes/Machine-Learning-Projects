@@ -89,7 +89,7 @@ This line of code encodes the `Transmission` Column.
 ```
 salim_car_dataset.head()
 ```
-This line of code prints the first five rows of the dataset to show the label encoded dataset. 
+This line of code would print the first five rows of the dataset to show the label encoded dataset. 
 
 ```
 X = salim_car_dataset.drop(['Car_Name','Selling_Price'],axis=1)
