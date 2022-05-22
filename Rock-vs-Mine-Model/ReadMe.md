@@ -26,7 +26,7 @@ The block of codes above imports the third party libraries used in the model.
 
 `from sklearn.model_selection import train_test_split` imports the train_test_split function from sklearn's model_selection library. It will be used in spliting arrays or matrices into random train and test subsets.
 
-`from sklearn.linear_model import LogisticRegression` imports the LogisticRegression Machine Learning model from sklearn's linear_model library. This model will be used in training the model. 
+`from sklearn.linear_model import LogisticRegression` will import the LogisticRegression Machine Learning model from sklearn's linear_model library. This model will be used in training the model. 
 
 `from sklearn.metrics import accuracy_score` imports the accuracy_score function from sklearn's metrics library. This model is used to ascertain the performance of our model. 
 
