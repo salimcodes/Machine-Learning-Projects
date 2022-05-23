@@ -20,7 +20,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 ```
 
-This block of codes above imports the third-party dependencies needed in the model.  
+The block of codes above imports the third-party dependencies needed in the model.  
 
 `import numpy as np` imports the `numpy` library which can be used to perform a wide variety of mathematical operations on arrays.
 
