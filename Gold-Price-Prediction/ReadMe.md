@@ -52,7 +52,7 @@ This displays the number of rows and columns.
 ```
 salim_gold_data.isnull().sum()
 ```
-This checks the number of missing values in the dataset. It is seen that there is no missing values in the dataset. 
+This will check the number of missing values in the dataset. It is seen that there is no missing values in the dataset. 
 
 ```
 salim_gold_data.describe()
