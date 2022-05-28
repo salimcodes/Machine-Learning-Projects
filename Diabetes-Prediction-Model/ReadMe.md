@@ -31,7 +31,7 @@ The block of codes above imports the third party libraries used in the model.
 
 `from sklearn.metrics import accuracy_score` imports the accuracy_score function from sklearn's metrics library. This model is used to ascertain the performance of our model. 
 
-- The Support Vector Machine(SVM) is a supervised machine learning algorithm used for both classification and regression. Though we say regression problems as well its best suited for classification.
+- The Support Vector Machine(SVM) is a supervised machine learning algorithm used in both classification and regression. Though we say regression problems as well its best suited for classification.
 
 ```
 salim_diabetes_dataset = pd.read_csv(r'C:\Users\OYINLOLA SALIM O\Downloads\diabetes.csv') 
