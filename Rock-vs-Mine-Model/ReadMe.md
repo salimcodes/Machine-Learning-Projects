@@ -36,7 +36,7 @@ The block of codes above imports the third party libraries used in the model.
 salim_data = pd.read_csv('/content/sonar data.csv', header=None)
 ```
 
-This reads the content of the used `.csv` file. The header is set as none, as such, we do not see the name of each property of the dataset. 
+This reads the content of the used `.csv` file. The header is set as none, as such, we do not see the name of each property in the dataset. 
 
 ```
 salim_data.head()
