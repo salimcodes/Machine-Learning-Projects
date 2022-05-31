@@ -57,7 +57,7 @@ We see;
 
 1       492
 
-It is seen that this Dataset is highly unblanced
+It is seen that this Dataset is highly unblanced;
 
 `0` --> Normal Transaction
 
