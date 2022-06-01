@@ -24,7 +24,7 @@ The block of codes above imports the dependencies used in the model.
 
 `import pandas as pd` imports the pandas library which is used to analyze data.
 
-`import seaborn as sns` imports the seaborn library which is used for making statistical graphics. It builds on top of matplotlib and integrates closely with pandas data structures. Seaborn helps you explore and understand your data.
+`import seaborn as sns` imports the seaborn library which is used for making statistical graphics. The library is such that it builds on top of matplotlib and integrates closely with pandas data structures. Seaborn helps you explore and understand your data.
 
 `from sklearn.model_selection import train_test_split` imports the train_test_split function from sklearn's model_selection library. It will be used in spliting arrays or matrices into random train and test subsets.
 
