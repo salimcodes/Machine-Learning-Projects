@@ -19,7 +19,7 @@ from sklearn import metrics
 ```
 The block of codes shown above imports the third party libraries used in the model.  
 
-`import pandas as pd` imports the pandas library which is used to analyze data.
+`import pandas as pd` is used to import the pandas library which is used to analyze data.
 
 `import matplotlib.pyplot as plt` imports the PyPlot function from the MatPlotLib library which is used to visualize data and trends in the data.
 
