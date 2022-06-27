@@ -4,7 +4,7 @@
 
 ### Project: Gold Price Prediction using Machine Learning with Python
 
-### Project Description: Predicts the price of gold
+### Project Description: Predicts the price of Gold
 
 ### URL to Dataset: [Download here](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data)
 
