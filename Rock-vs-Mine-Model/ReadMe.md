@@ -42,6 +42,7 @@ salim_data.head()
 ```
 This displays the first five rows of the dataset for better understanding of the dataset. 
 
+
 ```
 salim_data.shape
 ```
