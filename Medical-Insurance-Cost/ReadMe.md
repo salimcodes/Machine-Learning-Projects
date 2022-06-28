@@ -1,4 +1,4 @@
-# Author
+### Author
 
 * [Salim O. Oyinlola](https://twitter.com/salimopines)
 
