@@ -1,6 +1,6 @@
 ## Author
 
-* [Salim Olanrewaju Oyinlola](https://twitter.com/salimopines)
+### [Salim Olanrewaju Oyinlola](https://twitter.com/salimopines)
 
 ### Project: House-Prices-ML-Model
 
