@@ -38,7 +38,6 @@ salim_diabetes_dataset = pd.read_csv(r'C:\Users\OYINLOLA SALIM O\Downloads\diabe
 ```
 This reads the content of the used `.csv` file. The header is set as none, as such, we do not see the name of each property of the dataset. 
 
-
 ```
 salim_diabetes_dataset.head()
 ```
