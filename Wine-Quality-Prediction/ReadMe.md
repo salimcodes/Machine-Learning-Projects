@@ -21,6 +21,7 @@ from sklearn.metrics import accuracy_score
 
 The block of codes above imports the third party libraries used in the model.  
 
+
 `import numpy as np` imports the numpy library which can be used to perform a wide variety of mathematical operations on arrays.
 
 `import pandas as pd` imports the pandas library which is used to analyze data.
