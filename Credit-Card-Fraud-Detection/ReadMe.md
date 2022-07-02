@@ -8,7 +8,7 @@
 
 ### URL to Dataset: [Download here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-### Line-by-line explanation of Code
+### Line-by-line explanation of code
 
 ```
 import numpy as np
