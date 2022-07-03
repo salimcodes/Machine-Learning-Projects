@@ -6,9 +6,10 @@
 
 ### Project Description: This model is capable of detecting if a given news headline is fake. 
 
-### URL to Dataset: [Download here](https://www.kaggle.com/c/fake-news/data?select=train.csv)
+### URL to Dataset: Download [here](https://www.kaggle.com/c/fake-news/data?select=train.csv)
 
 ### Line-by-line explanation of Code
+
 
 ```
 import numpy as np
