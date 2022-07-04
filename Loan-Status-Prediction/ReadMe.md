@@ -6,7 +6,7 @@
 
 ### Project Description: This project is a classification model to determine if loan applications are eligible.  
 
-### URL to Dataset: [Download here](https://www.kaggle.com/datasets/ninzaami/loan-predication)
+### URL to Dataset: Download [here](https://www.kaggle.com/datasets/ninzaami/loan-predication)
 
 ### Line-by-line explanation of Code
 
