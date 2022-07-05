@@ -7,7 +7,7 @@
 
 ### Project Description: This is a classification problem that uses a set of 60 properties to determine/predict if a sample is mine or rock. 
 
-### URL to Dataset: [Download here](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view)
+### URL to Dataset: Download [here](https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view)
 
 ### Line-by-line explanation of Code
 
