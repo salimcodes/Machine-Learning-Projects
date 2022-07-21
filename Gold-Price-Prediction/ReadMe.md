@@ -8,7 +8,7 @@
 
 ### URL to Dataset: [Download here](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data)
 
-### Line-by-line explanation of Code
+### Line-by-line explanation of Codes
 
 ```
 import numpy as np
