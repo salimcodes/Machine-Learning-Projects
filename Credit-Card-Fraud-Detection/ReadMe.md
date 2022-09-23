@@ -4,7 +4,7 @@
 
 ### Project: Credit Card Fraud Detection using Machine Learning with Python.
 
-### Project Description: A simple model to predict credit card fraud detection
+### Project Description: A simple model to predict if a credit card is original or fake for fraud detection
 
 ### URL to Dataset: [Download here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
