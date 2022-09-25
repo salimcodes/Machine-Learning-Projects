@@ -1,6 +1,6 @@
 ### Author
 
-* [Salim Olanrewaju Oyinlola](https://twitter.com/salimopines)
+* [Salim Oyinlola](https://twitter.com/salimopines)
 
 ### Project: Gold Price Prediction using Machine Learning with Python
 
