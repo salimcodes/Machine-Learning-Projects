@@ -1,6 +1,6 @@
 ### Author
 
-* [Salim O. Oyinlola](https://twitter.com/salimopines)
+* [Salim Oyinlola](https://twitter.com/salimopines)
 
 ### Project: Medical Insurance Cost Prediction using Machine Learning with Python
 ### Project Description: 
