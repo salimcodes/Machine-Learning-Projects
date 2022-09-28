@@ -8,7 +8,7 @@
 
 ### URL to Dataset: Download [here](https://www.kaggle.com/c/fake-news/data?select=train.csv)
 
-### Line-by-line explanation of Code
+### Line-by-line explanation of code
 
 
 ```
