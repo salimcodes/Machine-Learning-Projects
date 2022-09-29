@@ -1,6 +1,6 @@
 ### Author
 
-* [Salim O. Oyinlola](https://twitter.com/salimopines)
+* [Salim Oyinlola](https://twitter.com/salimopines)
 
 ### Project: Car-Prices-Prediction-Model
 
